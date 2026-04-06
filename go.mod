@@ -1,3 +1,3 @@
-module github.com/gobeaver/beaver/configkit
+module github.com/gobeaver/configkit
 
 go 1.25.6

@@ -6,7 +6,7 @@ A thin Go config loader for Beaver projects. Wraps vendored copies of
 dependencies**.
 
 ```go
-import "github.com/gobeaver/beaver/configkit"
+import "github.com/gobeaver/configkit"
 ```
 
 ## Why
@@ -27,7 +27,7 @@ package main
 
 import (
     "fmt"
-    "github.com/gobeaver/beaver/configkit"
+    "github.com/gobeaver/configkit"
 )
 
 type Config struct {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io/fs"
 
-	"github.com/gobeaver/beaver/configkit/dotenv"
-	"github.com/gobeaver/beaver/configkit/env"
+	"github.com/gobeaver/configkit/dotenv"
+	"github.com/gobeaver/configkit/env"
 )
 
 // DefaultPrefix is the default environment variable prefix.
